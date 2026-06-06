@@ -32,10 +32,6 @@ A simple, lightweight chat application built with **Socket.IO** for real-time bi
 
 1. **Start the server**
    ```bash
-   npm start
-   ```
-   or
-   ```bash
    node app.js
    ```
 
