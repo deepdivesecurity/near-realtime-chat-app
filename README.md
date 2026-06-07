@@ -1,3 +1,6 @@
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=deepdivesecurity_near-realtime-chat-app&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=deepdivesecurity_near-realtime-chat-app)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=deepdivesecurity_near-realtime-chat-app&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=deepdivesecurity_near-realtime-chat-app)
+
 # Near Real-Time Chat App
 
 A simple, lightweight chat application built with **Socket.IO** for real-time bidirectional communication between clients and server.
