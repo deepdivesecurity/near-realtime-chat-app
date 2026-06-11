@@ -1,5 +1,6 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=deepdivesecurity_near-realtime-chat-app&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=deepdivesecurity_near-realtime-chat-app)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=deepdivesecurity_near-realtime-chat-app&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=deepdivesecurity_near-realtime-chat-app)
+[![CodeQL](https://github.com/deepdivesecurity/near-realtime-chat-app/workflows/CodeQL/badge.svg)](https://github.com/deepdivesecurity/near-realtime-chat-app/actions?query=workflow%3ACodeQL)
 
 # Near Real-Time Chat App
 
